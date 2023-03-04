@@ -1,5 +1,5 @@
 # simple-pricing-page
-A simple pricing page, made with HTML/CSS
+A simple pricing page, made with HTML/CSS (web developer mentor)
 
 In this challenge, i created a pricing table. It contains three plans with different styles and hover effects.
 
