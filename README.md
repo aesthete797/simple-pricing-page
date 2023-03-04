@@ -11,3 +11,5 @@ Readme.md file with all the instructions
 PNG designs for Desktop, Mobile
 
 PNG/Videos for hover states and animations if applicable
+
+Link to vercel: https://simple-pricing-page.vercel.app/
